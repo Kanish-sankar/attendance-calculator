@@ -287,7 +287,7 @@ function App() {
         </main>
         <footer className="app-footer">
           <p>Made with ♥ by <strong>Jupenta</strong></p>
-          <p className="footer-link"><a href="https://attendance.jupenta.com" target="_blank" rel="noopener noreferrer">Visit Jupenta</a></p>
+          <p className="footer-link"><a href="https://jupenta.com" target="_blank" rel="noopener noreferrer">Visit Jupenta</a></p>
         </footer>
       </div>
     </>
